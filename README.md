@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio</title>
+
 </head>
 <body>
   <h1>Portfolio</h1>
@@ -52,8 +52,13 @@
   </ul>
 </section>
 
-
-  <section>
+<section>
+  <h2>Publications</h2>
+  <p><a href="https://scholar.google.com/citations?user=XJxrdQkAAAAJ&hl=en&oi=ao">Publications on Google Scholar</a></p>
+  <ul>
+  
+  </ul>
+</section>
     <h2>Affiliations</h2>
     <ul>
       <li>University of Southern California</li>
